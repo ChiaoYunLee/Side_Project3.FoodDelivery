@@ -1,6 +1,6 @@
 # Side_Project3.FoodDelivery
 <img src="https://user-images.githubusercontent.com/58580554/160270083-3b3303f9-2a39-4e75-96ce-13d5ba9d7af1.png" width = 35%>. 
-### | Course：Database Management System
+### | Course：Database Management System (Group work)
 ### | Goal：To eliminate bad behaviors conducted by the customers who use food delivery app.
 ### | Introduction
 This project is built on the purpose of eliminating bad behaviors conducted by the customers who use food delivery app. In our system, couriers can leave a comment on a customer and view his/her past reviewsview, then, they can decide whether to take their order or not. There are also sign up, sign in, order record, and some other functions.
